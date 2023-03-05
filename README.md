@@ -1,5 +1,5 @@
 # Soulbound-NFTs
-See BSC testnet [OI_Verified](https://testnet.bscscan.com/address/0x9E8B124A9C9b4c56DdcBC7470d6D77aC79b1b90B#code) & [OI_Flagged](https://testnet.bscscan.com/address/0x5536040032e1A395003341e37227359Bf1D50ed9#code) NFTs.
+See BSC testnet [OI_Verified](https://testnet.bscscan.com/address/0x8A585c907645e768DAB31f0747d21c35D2Da7953#code) & [OI_Flagged](https://testnet.bscscan.com/token/0x5f4c4f81d8c0cf1e3e1422b831ed2a489cb48ad7#code) NFTs.
 
 ## ERC721 Standard with Adjustments:
 - Soulbound, i.e. token cannot be transferred.
