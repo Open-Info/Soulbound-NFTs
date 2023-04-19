@@ -1,5 +1,9 @@
 # 👾 Soulbound Certification
 Irrefutable source of truth.
+BSC tesnet contracts:
+ - [OI_Verified](https://testnet.bscscan.com/token/0xd968f13B4b2dD8606Da94F72fC0d10a230722527#balances)
+ - [OI_Flagged](https://testnet.bscscan.com/token/0x53560A19F50fbe55a06418938ffd97428CDDd9Db#balances)
+
 
 ### Modified ERC721 Functions:
 
